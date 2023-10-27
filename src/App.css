@@ -13,6 +13,7 @@
   width: 100vw;
 }
 
+
 .card{
   border: 2px solid black;
   background-color: rgb(171, 169, 169);
@@ -21,15 +22,16 @@
   flex-direction: column;
   justify-content: stretch;
   height: 500px;
-  width: 250px;
+  width: 300px;
+  padding: 5px;
+  margin: 10px;
 }
-
 
 img{
   margin: 5px;
+  width: 100%;
   height: 250px;
-  width: 200px;
-  object-fit: contain;
+  object-fit: cover;
 }
 .productname{
   height: 100px;
