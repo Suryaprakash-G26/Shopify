@@ -2,7 +2,7 @@
 import { useState } from 'react'
 import './App.css'
 import { Shoping } from './Shoping'
-import { Topbar } from './Topbar'
+import { Topbar } from './topbar'
 import { Display } from './Display'
 
 
