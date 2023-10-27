@@ -68,5 +68,6 @@ img{
 
 .Slideshow  {
   object-fit: cover;
-  height: vh;
+  height: 50vh;
+  margin-bottom: 20px;
 }
