@@ -20,11 +20,13 @@ The Shopping Cart App is a web application developed using React.js. It allows u
 
 
 ##Screenshots
+![image](https://github.com/Suryaprakash-G26/Shopify/assets/141228691/78f807a8-21f6-40cf-8c00-01e225bff4d2)
+
 
 ##Deployed Link 
 click the link to open
-[Shopify]()
+[Shopify](https://precious-unicorn-e8c5da.netlify.app/)
 
 
 ## contributer
-[Suryaprakash.G]()
+[Suryaprakash.G](https://www.instagram.com/challenge/action/AXH5hGDccxDjvz_2KAMHxHx_hY2tYgDy6QpOU3LAKAnb-r_7uD1tmRWzKoSXMBFKxKxUtA/AfwpGqrPVyblbpnBqTQv69tjFjvv5Q1jK2xcUIETOVgPZAtIeXDQvY152t_u52CNKtg2IWLCehu3AA/ffc_Iyp2hckhDPNwReztwz5PbkViYAek61ubq6wNnUOdXeNRvAY7FTp1p0HKWfZHXaZs/)
