@@ -28,5 +28,13 @@ click the link to open
 [Shopify](https://precious-unicorn-e8c5da.netlify.app/)
 
 
-## contributer
-[Suryaprakash.G](https://www.instagram.com/challenge/action/AXH5hGDccxDjvz_2KAMHxHx_hY2tYgDy6QpOU3LAKAnb-r_7uD1tmRWzKoSXMBFKxKxUtA/AfwpGqrPVyblbpnBqTQv69tjFjvv5Q1jK2xcUIETOVgPZAtIeXDQvY152t_u52CNKtg2IWLCehu3AA/ffc_Iyp2hckhDPNwReztwz5PbkViYAek61ubq6wNnUOdXeNRvAY7FTp1p0HKWfZHXaZs/)
+
+## Contact
+
+Feel free to reach out if you have any questions or suggestions:
+
+- [GitHub](https://github.com/Suryaprakash-G26)
+- [LinkedIn](https://www.linkedin.com/in/surya-prakash-6b2914191/)
+
+Happy coding! 🚀
+
